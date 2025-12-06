@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Fast Combo RJ — Pedido Online (MVP)</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="logo">Fast Combo RJ</div>
+    <nav><button id="btn-menu">Menu</button></nav>
+  </header>
+
+  <main id="app">
+    <section class="hero">
+      <h1>Bem-vindo ao Fast Combo RJ</h1>
+      <p>Peça seus combos favoritos para entrega rápida.</p>
+      <button id="view-menu">Ver Cardápio</button>
+    </section>
+
+    <section id="menu" class="hidden">
+      <h2>Cardápio</h2>
+      <div id="products" class="grid"></div>
+    </section>
+
+    <section id="cart" class="hidden">
+      <h2>Carrinho</h2>
+      <div id="cart-items"></div>
+      <div id="cart-summary"></div>
+      <button id="checkout">Finalizar Pedido (Simulado)</button>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

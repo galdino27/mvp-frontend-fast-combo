@@ -1,0 +1,7 @@
+Pitch — Fast Combo RJ (60-90 segundos)
+Olá, meu nome é Ibson Bernardino e apresento o MVP Front-End para o Fast Combo RJ, uma loja de delivery local.
+Problema: clientes precisam de uma forma simples e rápida de visualizar combos e finalizar pedidos pelo celular.
+Solução: uma aplicação web responsiva com 3 telas (Home, Cardápio, Carrinho) que permite navegar, adicionar itens ao carrinho e simular um checkout.
+Diferenciais: interface enxuta, foco em usabilidade mobile-first e código organizado para fácil iteração.
+Próximos passos: integrar backend, implementar pagamentos, e melhorias de acessibilidade e performance.
+Obrigado!
