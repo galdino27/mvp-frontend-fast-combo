@@ -58,7 +58,7 @@ Ferramenta de prototipação (Figma ou similar)
 Como Executar o MVP Localmente:
 
 1. Baixe ou clone o repositório:
-git clone https://github.com/SEU-USUARIO/mvp-frontend-fast-combo
+git clone https://github.com/galdino27/mvp-frontend-fast-combo
 2. Entre na pasta do projeto.
 3. Abra o arquivo index.html em qualquer navegador (Chrome, Edge, Firefox…).
 
